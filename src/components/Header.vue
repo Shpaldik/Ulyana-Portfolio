@@ -19,7 +19,6 @@
 
         <nav v-if="isMenuOpen" class="absolute top-full left-0 w-full bg-white shadow-md py-4 flex flex-col items-center space-y-4 text-base font-normal font-[aa-stetica] xl:hidden animate-slideIn">
             <a href="#about" class="hover:text-red-700 transition">Обо мне</a>
-            <a href="#projects" class="hover:text-red-700 transition">Проекты</a>
             <a href="#cases" class="hover:text-red-700 transition">Кейсы</a>
             <a href="#contacts" class="hover:text-red-700 transition">Контакты</a>
         </nav>
