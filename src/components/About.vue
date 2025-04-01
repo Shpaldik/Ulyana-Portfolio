@@ -4,7 +4,7 @@
   </h1>
   <section class="flex flex-col md:flex-col lg:flex-row items-center gap-3 p-4 animate-fadeIn">
 
-    <img class="w-full md:w-80 h-60 md:h-80 lg:w-80 lg:h-96 rounded-lg transition-transform duration-500 hover:scale-105" src="/public/photo.svg" alt="">
+    <img class="w-full md:w-80 h-60 md:h-80 lg:w-80 lg:h-96 rounded-lg transition-transform duration-500 hover:scale-105" src="/public/photo.jpg" alt="">
 
     <main class="flex flex-col gap-8 w-full md:w-4/5">
       <section>

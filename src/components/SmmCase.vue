@@ -12,7 +12,7 @@
         </header>
 
       <section class="mt-10 mx-4 font-[aa-stetica]">
-        <h1 class="text-xl sm:text-2xl lg:text-3xl font-semibold border-b-4 border-red-700 pb-2 text-center">
+        <h1 class="text-xl sm:text-2xl lg:text-3xl border-b-4 border-red-700 pb-2 text-center">
           {{ caseTitle }}
         </h1>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-8 px-4">
