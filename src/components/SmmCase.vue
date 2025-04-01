@@ -38,7 +38,6 @@
   const caseTitles = {
     "1": "Оформление историй",
     "2": "Создание постов",
-
   };
   
   const caseTitle = ref(caseTitles[caseId] || "SMM-Кейс");
