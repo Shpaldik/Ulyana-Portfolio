@@ -3,7 +3,7 @@
       <header class="sticky top-0 z-50 bg-white shadow-md">
           <div class="container mx-auto py-4 px-4 md:px-6">
             <router-link
-              to="/home"
+              to="/main"
               class="text-[#7f1d1d] hover:underline text-base font-medium"
             >
               <img src="/public/arrow.svg" alt="exit" width="40">
