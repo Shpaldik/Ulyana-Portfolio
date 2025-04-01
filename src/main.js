@@ -6,7 +6,7 @@ import { createRouter, createWebHistory } from "vue-router";
 
 import Home from './components/Home.vue'
 import Project from './components/Project.vue';
-import SmmCase from './components/smmCase.vue';
+import SmmCase from "./components/SmmCase.vue"; 
 import BrandCase from "./components/BrandCase.vue";
 
 
