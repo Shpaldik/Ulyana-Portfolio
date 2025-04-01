@@ -9,7 +9,7 @@
     <main class="flex flex-col gap-8 w-full md:w-4/5">
       <section>
         <div class="flex items-center">
-          <h1 class="text-xl font-['AA Stetica'] font-light sm:text-3xl lg:text-4xl font-bold text-gray-800 border-b-2 border-red-700 inline-block pb-1 uppercase md:text-left text-center">
+          <h1 class="text-xl font-['AA Stetica Light'] font-light sm:text-3xl lg:text-4xl font-bold text-gray-800 border-b-2 border-red-700 inline-block pb-1 uppercase md:text-left text-center">
             ОБО МНЕ
           </h1>
           <img src="/public/icons/arrow.svg" alt="" width="60">

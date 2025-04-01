@@ -11,7 +11,7 @@
           </div>
       </header>
 
-        <h1 class="text-xl sm:text-2xl lg:text-3xl font-semibold border-b-4 border-red-700 block pb-2 text-center mt-10 mx-auto">
+        <h1 class="text-xl sm:text-2xl lg:text-3xl font-light border-b-4 border-red-700 block pb-2 text-center mt-10 mx-auto">
             {{ caseTitle }}
         </h1>
 

@@ -63,6 +63,17 @@
   font-family: 'AA Stetica Regular', sans-serif;
 }
 
+h1{
+  font-family: 'AA Stetica Bold', sans-serif;
+}
+
+h2{
+  font-family: 'AA Stetica Bold', sans-serif;
+}
+
+p{
+  font-family: 'AA Stetica Regular', sans-serif;
+}
 
 :root {
     --color-gray: #4A4949;
