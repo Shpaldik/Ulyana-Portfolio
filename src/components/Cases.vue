@@ -89,13 +89,13 @@ const smmCases = ref([
     id: 1,
     title: "Кейс 1",
     description: "Истории",
-    image: "/public/mainsmm/1.svg",
+    image: "/mainsmm/1.svg",
   },
   {
     id: 2,
     title: "Кейс 2",
     description: "Посты",
-    image: "/public/mainsmm/2.svg",
+    image: "/mainsmm/2.svg",
   }
 ]);
 
@@ -104,61 +104,61 @@ const brandCases = ref([
     id: 1,
     title: "Кейс 3",
     description: "Разработка лого для бренда молочной продукции",
-    image: "/public/brandmain/milk.svg",
+    image: "/brandmain/milk.svg",
   },
   {
     id: 2,
     title: "Кейс 4",
     description: "Разработка лого для бренда рыбной продукции",
-    image: "/public/brandmain/fish.svg",
+    image: "/brandmain/fish.svg",
   },
   {
     id: 3,
     title: "Кейс 5",
     description: "Разработка идеи для создания бренда мороженого",
-    image: "/public/brandmain/icecream.svg",
+    image: "/brandmain/icecream.svg",
   },
   {
     id: 4,
     title: "Кейс 6",
     description: "Разработка лого для бренда уходовой косметики",
-    image: "/public/brandmain/kosmetica.svg",
+    image: "/brandmain/kosmetica.svg",
   },
   {
     id: 5,
     title: "Кейс 7",
     description: "Разработка логотипа для бренда мебели и домашнего уюта",
-    image: "/public/brandmain/furniture.svg",
+    image: "/brandmain/furniture.svg",
   },
   {
     id: 6,
     title: "Кейс 8",
     description: "Ребрендинг логотипа косметики",
-    image: "/public/brandmain/cosmetics.svg",
+    image: "/brandmain/cosmetics.svg",
   },
   {
     id: 7,
     title: "Кейс 9",
     description: "Разработка логотипа спортивного питания",
-    image: "/public/brandmain/sport.svg",
+    image: "/brandmain/sport.svg",
   },
   {
     id: 8,
     title: "Кейс 10",
     description: "Разработка логотипа пива",
-    image: "/public/brandmain/beer.svg",
+    image: "/brandmain/beer.svg",
   },
   {
     id: 9,
     title: "Кейс 11",
     description: "Разработка логотипа для бренда кормов для животных",
-    image: "/public/brandmain/petfood.svg",
+    image: "/brandmain/petfood.svg",
   },
   {
     id: 10,
     title: "Кейс 12",
     description: "Разработка логотипа новой коллекции бренда одежды",
-    image: "/public/brandmain/clothes.svg",
+    image: "/brandmain/clothes.svg",
   },
 ]);
 
