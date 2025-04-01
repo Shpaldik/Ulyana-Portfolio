@@ -88,7 +88,7 @@ const smmCases = ref([
   {
     id: 1,
     title: "Кейс 1",
-    description: "Истории",
+    description: "Истории для бренда одежды",
     image: "/mainsmm/1.svg",
   },
   {

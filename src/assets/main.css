@@ -75,6 +75,11 @@ p{
   font-family: 'AA Stetica Regular', sans-serif;
 }
 
+a{
+  font-family: 'AA Stetica Regular', sans-serif;
+}
+
+
 :root {
     --color-gray: #4A4949;
 }
