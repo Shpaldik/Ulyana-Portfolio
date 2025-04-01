@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+/* src/assets/styles/main.css */
+
+@font-face {
+  font-family: 'AA Stetica Black';
+  src: url('../fonts/AAStetica/AA Stetica Black.otf') format('opentype');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'AA Stetica Bold';
+  src: url('../fonts/AAStetica/AA Stetica Bold.otf') format('opentype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'AA Stetica Italic';
+  src: url('../fonts/AAStetica/AA Stetica Italic.otf') format('opentype');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'AA Stetica Bold Italic';
+  src: url('../fonts/AAStetica/AA Stetica Bold Italic.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'AA Stetica Light';
+  src: url('../fonts/AAStetica/AA Stetica Light.otf') format('opentype');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'AA Stetica Light Italic';
+  src: url('../fonts/AAStetica/AA Stetica Light Italic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'AA Stetica Medium';
+  src: url('../fonts/AAStetica/AA Stetica Medium.otf') format('opentype');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'AA Stetica Medium Italic';
+  src: url('../fonts/AAStetica/AA Stetica Medium Italic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'AA Stetica Regular';
+  src: url('../fonts/AAStetica/AA Stetica Regular.otf') format('opentype');
+  font-weight: normal;
+}
+
+* {
+  font-family: 'AA Stetica Regular', sans-serif;
+}
+
+
+:root {
+    --color-gray: #4A4949;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+  background: #F7F7F7 ;
+    font-family: 'AA Stetica Regular', sans-serif;
+}
+
+h1 h2 h3 h4 h5 h6 p a{
+  color: #000000;
+}
+
+
+/* src/assets/styles/main.css */
+
+/* Подключение шрифта */
+@font-face {
+  font-family: 'AA Stetica';
+  src: url('./fonts/AA Stetica Light.otf') format('opentype');
+  font-weight: 300; /* Light */
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AA Stetica';
+  src: url('./fonts/AA Stetica Regular.otf') format('opentype');
+  font-weight: normal; /* Regular */
+  font-style: normal;
+}
+
+/* Глобальные стили для использования шрифта */
+@layer base {
+  html {
+    font-family: 'AA Stetica', sans-serif;
+  }
+}
+
+  .swiper-pagination-bullet-active{
+    background-color: #7f1d1d !important;
+  }
+
+  .swiper-button-prev, .swiper-button-next{
+    color: red !important;
+  }
