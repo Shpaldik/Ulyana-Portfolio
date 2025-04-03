@@ -13,7 +13,7 @@ A modern and stylish **personal portfolio** showcasing skills in **marketing and
 ✔️ Responsive design  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
+- **Frontend:** Vue.js, tailwind 
 - **Hosting:** Vercel  
 
 ## 📸 Screenshot  
@@ -27,10 +27,3 @@ cd portfolio
 npm install  
 npm run dev  
 ```
-
-## 📜 License  
-MIT License  
-
----
-
-Let me know if you want any modifications! 🚀
